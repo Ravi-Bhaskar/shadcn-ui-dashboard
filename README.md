@@ -4,14 +4,18 @@ This project is a fully responsive dashboard built using React (Vite), ShadCN UI
 ### ✅ Live Demo: https://shadcn-ui-dashboard-rose.vercel.app
 
 ## 📸 Screenshot
+
 - Laptop Screen View
+
 ![image](https://github.com/user-attachments/assets/36f9ab9f-7ab0-4e24-9fe5-75012ef57846)
 
 - Mobile Screen View
+
 ![image](https://github.com/user-attachments/assets/1e028c74-0363-426b-b948-66b2e3d2e4ae)
 
 
 ## 🚀 Features
+
 - 🔗 Sidebar navigation with mobile drawer (ShadCN sidebar-07)
 
 - 📊 Dashboard Analytics Cards (with Skeleton loaders)
@@ -33,6 +37,7 @@ This project is a fully responsive dashboard built using React (Vite), ShadCN UI
 - 🍃 Tailwind CSS v4 (JIT)
 
 ## 🛠️ Tech Stack
+
 - ⚛️ React + Vite (JavaScript)
 
 - 💅 Tailwind CSS v4 (CSS-first)
@@ -47,6 +52,7 @@ This project is a fully responsive dashboard built using React (Vite), ShadCN UI
 
 
 ## 📦 Getting Started
+
 - Clone the repo: git clone https://github.com/your-username/shadcn-dashboard.git
 
 ```cd shadcn-dashboard```
@@ -64,6 +70,7 @@ This project is a fully responsive dashboard built using React (Vite), ShadCN UI
 ```npm run build```
 
 ## 📚 ShadCN Blocks Used
+
 - Sidebar: sidebar-07
 
 - Dashboard Table: dashboard-01
@@ -77,6 +84,7 @@ This project is a fully responsive dashboard built using React (Vite), ShadCN UI
 ### 🧩 Visit shadcn blocks here: https://ui.shadcn.com/blocks
 
 ## 🧠 Learnings
+
 - Responsive layout using shadcn/ui and Tailwind CSS
 
 - Component decomposition for scalability
@@ -86,5 +94,6 @@ This project is a fully responsive dashboard built using React (Vite), ShadCN UI
 - React Router for routing setup
 
 ### 👨‍💻 Author
+
 Built with 💙 by Ravi Bhaskar
 📧 Contact: robinkr1249@gmail.com
