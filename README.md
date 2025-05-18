@@ -1,7 +1,7 @@
 # 🧩 ShadCN Responsive Dashboard UI
 This project is a fully responsive dashboard built using React (Vite), ShadCN UI components, Tailwind CSS v4, and React Router DOM. The layout is inspired by a modern CMS-like article manager and features a sidebar, article table, analytics cards, charts, and more.
 
-### ✅ Live Demo: (https://shadcn-ui-dashboard-rose.vercel.app)
+### ✅ Live Demo: https://shadcn-ui-dashboard-rose.vercel.app
 
 ## 📸 Screenshot
 - Laptop Screen View
