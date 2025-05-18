@@ -1,12 +1,83 @@
-# React + Vite
+# 🧩 ShadCN Responsive Dashboard UI
+This project is a fully responsive dashboard built using React (Vite), ShadCN UI components, Tailwind CSS v4, and React Router DOM. The layout is inspired by a modern CMS-like article manager and features a sidebar, article table, analytics cards, charts, and more.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### ✅ Live Demo: [Your Netlify/Vercel link here]
 
-Currently, two official plugins are available:
+📸 Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🔗 Sidebar navigation with mobile drawer (ShadCN sidebar-07)
 
-## Expanding the ESLint configuration
+- 📊 Dashboard Analytics Cards (with Skeleton loaders)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📈 Responsive Chart Section
+
+- 📄 Articles Data Table with sorting and filtering (ShadCN dashboard-01)
+
+- 🕓 Recent Activity Section
+
+- ⚡ Skeleton Loaders for all main components
+
+- 📱 Fully responsive (mobile, tablet, and desktop)
+
+- 🧱 Component-based clean folder structure
+
+- 🌐 Dummy routing with React Router DOM
+
+- 🍃 Tailwind CSS v4 (JIT)
+
+##🛠️ Tech Stack
+- ⚛️ React + Vite (JavaScript)
+
+- 💅 Tailwind CSS v4 (CSS-first)
+
+- 🧩 shadcn/ui
+
+- 🧭 React Router DOM
+
+- 📦 Lucide Icons
+
+- 🧱 Component-driven structure
+
+
+## 📦 Getting Started
+- Clone the repo: git clone https://github.com/your-username/shadcn-dashboard.git
+```cd shadcn-dashboard```
+
+### Install dependencies:
+
+```npm install```
+
+### Run the development server:
+
+```npm run dev```
+
+### Build for production:
+
+```npm run build```
+
+## 📚 ShadCN Blocks Used
+- Sidebar: sidebar-07
+
+- Dashboard Table: dashboard-01
+
+- Cards: card component
+
+- Skeletons: skeleton component
+
+- Chart: extracted from dashboard-01
+
+### 🧩 Visit shadcn blocks here: https://ui.shadcn.com/blocks
+
+## 🧠 Learnings
+- Responsive layout using shadcn/ui and Tailwind CSS
+
+- Component decomposition for scalability
+
+- Handling loading states with Skeletons
+
+- React Router for routing setup
+
+### 👨‍💻 Author
+Built with 💙 by [Ravi Bhaskar]
+📧 Contact: robinkr1249@gmail.com
